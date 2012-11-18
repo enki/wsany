@@ -1,0 +1,29 @@
+{
+  "name": "wsany",
+  "version": "0.0.1",
+  "description": "wrap native websockets and einaros/ws to expose the same eventemitter based api",
+  "main": "wsany.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/enki/wsany.git"
+  },
+  "dependencies": {
+    "ws": "*",
+    "isnode": "*"
+  },
+  "keywords": [
+    "ws",
+    "websockets",
+    "wrapper",
+    "compatibility",
+    "browser",
+    "node",
+    "nodejs"
+  ],
+  "author": "Paul Bohm <enki@bbq.io> (http://paulbohm.com/)",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
